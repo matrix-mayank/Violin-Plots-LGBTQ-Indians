@@ -17,3 +17,7 @@ This repository provides violin plot visualization from data collected from 127 
 1. Utilizes the gather function to reshape data and the convert_as_factor function to convert a variable to a factor.
 2. Utilizes the viridis palette for enhanced visualization.
 3. Defines custom labels for better interpretability.
+
+## Sample Visualization
+![download (78)](https://github.com/matrix-mayank/Violin-Plots-LGBTQ-Indians/assets/57093503/cf105e5c-1878-4a11-88d2-df715d700db4)
+
